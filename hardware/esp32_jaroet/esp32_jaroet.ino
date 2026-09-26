@@ -2,8 +2,8 @@
 #include <WebServer.h>
 
 // Ganti dengan nama dan password Wi-Fi kamu
-const char* ssid = "NAMA_WIFI_KAMU";
-const char* password = "PASSWORD_WIFI_KAMU";
+const char* ssid = "LP Santri";
+const char* password = "";
 
 WebServer server(80);
 
