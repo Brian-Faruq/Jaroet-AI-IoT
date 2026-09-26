@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+requests
+SpeechRecognition
+pyaudio
+python-telegram-bot
