@@ -4,7 +4,7 @@ import requests
 import time
 
 # IP ESP32 Kamu
-ESP32_IP = "http://10.70.70.92"
+ESP32_IP = "http://10.70.70.194"
 
 # Inisialisasi Kamera & Detector
 cap = cv2.VideoCapture(0)

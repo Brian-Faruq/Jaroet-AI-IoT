@@ -6,7 +6,7 @@ import speech_recognition as sr
 import os
 
 # IP ESP32 Kamu
-ESP32_IP = "http://10.70.70.92"
+ESP32_IP = "http://10.70.70.194"
 TEMP_AUDIO_FILE = "temp_voice.wav"
 SAMPLE_RATE = 44100
 DURATION = 4  # Durasi merekam dalam detik per sesi
