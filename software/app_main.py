@@ -2,7 +2,7 @@ import time
 import requests
 
 # Masukkan IP Address ESP32 yang kamu dapat dari Serial Monitor tadi
-ESP32_IP = "http://10.70.70.92"  
+ESP32_IP = "http://10.70.70.35"  
 
 
 def send_command(endpoint):
