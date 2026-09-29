@@ -1,0 +1,6 @@
+ESP32 Pin (3v3) -> Relay (1&2) Pin (VCC&COM)
+ESP32 Pin (GND) -> Relay (1&2) Pin (GND)
+ESP32 Pin (D23) -> Relay (1) Pin (IN)
+ESP32 Pin (D22) -> Relay (2) Pin (IN)
+Relay (1&2) Pin (NO) -> LED (1&2) Pin (VCC)
+LED (1&2) Pin (GND) -> ESP32 Pin (GND)
