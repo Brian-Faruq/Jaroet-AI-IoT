@@ -17,7 +17,7 @@
         <div class="flex items-center gap-3">
             <div class="p-3 bg-blue-600 rounded-xl text-white font-bold text-xl"><i class="fa-solid fa-microchip"></i></div>
             <div>
-                <h1 class="text-xl font-bold tracking-wide">JAROET AI Web Controller</h1>
+                <h1 class="text-xl font-bold tracking-wide">JAROET AI Web Control</h1>
                 <p class="text-xs text-slate-400">ESP32 Static IP: <span class="text-emerald-400 font-mono">10.70.70.35</span></p>
             </div>
         </div>
